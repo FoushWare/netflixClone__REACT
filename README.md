@@ -6,7 +6,8 @@
 - [X]  GET TMDB API key
 - [X]  Create ReactApp + create app on Firebase
 - [X]  Clean up the create-react-app
-- [ ]  Get all movies & build the Netflix movie rows
+- [X]  Use Axios for sending Requests
+- [X]  Get all movies & build the Netflix movie rows
 - [ ]  Build the banner of the app
 - [ ]  Build the Navbar
 - [ ]  Add Firebase hosting to your app
