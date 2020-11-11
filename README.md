@@ -1,8 +1,9 @@
 # Netflix Clone 
 
 
-- [ ]  GET TMDB API key
-- [ ]  Create ReactApp + create app on Firebase
+- [X]  GET TMDB API key
+- [X]  Create ReactApp + create app on Firebase
+- [X]  Clean up the create-react-app
 - [ ]  Get all movies & build the Netflix movie rows
 - [ ]  Build the banner of the app
 - [ ]  Build the Navbar
@@ -21,7 +22,7 @@
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
