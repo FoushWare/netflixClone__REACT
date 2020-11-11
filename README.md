@@ -1,4 +1,6 @@
 # Netflix Clone 
+![Imgur](https://i.imgur.com/aZ4AVff.png)
+
 
 
 - [X]  GET TMDB API key
