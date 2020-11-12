@@ -1,0 +1,12 @@
+# @format
+
+language: node_js
+node_js:
+  - "10"
+script:
+  -
+install:
+  - npm install -g firebase-tools
+
+after_success:
+  - firebase deploy --token "1//03LQTnI7A3tXGCgYIARAAGAMSNwF-L9IrNG3AEbuZ0yv0g1W-er5nOI__NC3qlKr3C8P0JKe6J2jQXCa6AGjt_F0-WqQmb345yfE"

@@ -12,7 +12,7 @@ function Banner() {
       const request = await axios.get(requests.fetchNetflixOriginals);
       setMovie(
         request.data.results[
-          Math.floor(Math.random() * request.data.results.length)
+        Math.floor(Math.random() * request.data.results.length)
         ]
       ); // using prettier
     }

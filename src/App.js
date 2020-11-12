@@ -9,9 +9,10 @@ import Nav from "./Nav";
 function App() {
   return (
     <div className="app">
-      
-      <Nav/>
-      <Banner/>
+
+      <Nav />
+      <Banner />
+
 
       <Row
         isLargeRow
