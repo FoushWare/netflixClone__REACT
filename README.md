@@ -8,10 +8,10 @@
 - [X]  Clean up the create-react-app
 - [X]  Use Axios for sending Requests
 - [X]  Get all movies & build the Netflix movie rows
-- [ ]  Build the banner of the app
-- [ ]  Build the Navbar
+- [X]  Build the banner of the app
+- [X]  Build the Navbar
+- [X]  Add Netflix movie trailer pop-ups
 - [ ]  Add Firebase hosting to your app
-- [ ]  Add Netflix movie trailer pop-ups
 - [ ]  Deploy the app to Firebase and Host it online
 
 
